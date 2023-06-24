@@ -1,0 +1,3 @@
+EASY: 30
+HARD: 30
+INSANE: 40
